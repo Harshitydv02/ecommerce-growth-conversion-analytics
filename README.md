@@ -6,7 +6,7 @@ An end-to-end e-commerce analytics case study using 25,000 simulated customer se
 
 A fully interactive dashboard is available through GitHub Pages.
 
-> Live dashboard link will be added here after deployment.
+> https://harshitydv02.github.io/ecommerce-growth-conversion-analytics/
 
 ---
 
